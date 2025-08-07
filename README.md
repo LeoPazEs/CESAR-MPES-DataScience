@@ -1,2 +1,2 @@
-# CESAR-MPES-DataScience
-Projetos CESAR MPES 2024.2 Data Science
+# CESAR-MPES-DataScience  
+Referências retiradas do repositório: https://github.com/ProfLuciano/cd  
