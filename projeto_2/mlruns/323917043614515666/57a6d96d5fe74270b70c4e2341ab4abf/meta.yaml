@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/323917043614515666/57a6d96d5fe74270b70c4e2341ab4abf/artifacts
+end_time: 1758725409198
+entry_point_name: ''
+experiment_id: '323917043614515666'
+lifecycle_stage: active
+run_id: 57a6d96d5fe74270b70c4e2341ab4abf
+run_name: able-zebra-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725404183
+status: 3
+tags: []
+user_id: leopazes

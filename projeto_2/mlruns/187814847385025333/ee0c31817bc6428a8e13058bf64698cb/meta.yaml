@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/ee0c31817bc6428a8e13058bf64698cb/artifacts
+end_time: 1758725366867
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: ee0c31817bc6428a8e13058bf64698cb
+run_name: silent-foal-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366808
+status: 3
+tags: []
+user_id: leopazes

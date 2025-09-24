@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/f24a71a6a48e48cd831caccbda14535d/artifacts
+end_time: 1758725362277
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: f24a71a6a48e48cd831caccbda14535d
+run_name: sneaky-seal-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725362140
+status: 3
+tags: []
+user_id: leopazes

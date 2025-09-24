@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/models/m-7e7dfa30d9bf4c81a689439356da987f/artifacts
+creation_timestamp: 1758725369921
+experiment_id: '187814847385025333'
+last_updated_timestamp: 1758725371530
+model_id: m-7e7dfa30d9bf4c81a689439356da987f
+model_type: null
+name: knn_walmart_best
+source_run_id: a07ae67fc81047bda7d0d16251b4b2fc
+status: 2
+status_message: null

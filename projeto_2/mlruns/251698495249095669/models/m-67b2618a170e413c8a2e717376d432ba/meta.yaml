@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/251698495249095669/models/m-67b2618a170e413c8a2e717376d432ba/artifacts
+creation_timestamp: 1758725351419
+experiment_id: '251698495249095669'
+last_updated_timestamp: 1758725352989
+model_id: m-67b2618a170e413c8a2e717376d432ba
+model_type: null
+name: mercurial-skink-406
+source_run_id: f05bc40bedf04fedbf261141e0538fc7
+status: 2
+status_message: null

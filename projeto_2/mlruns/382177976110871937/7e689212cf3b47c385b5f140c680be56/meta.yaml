@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/7e689212cf3b47c385b5f140c680be56/artifacts
+end_time: 1758725362663
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 7e689212cf3b47c385b5f140c680be56
+run_name: handsome-newt-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725362463
+status: 3
+tags: []
+user_id: leopazes

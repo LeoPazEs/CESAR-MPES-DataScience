@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/e0c92337ecce445f9b3cfded2e00a305/artifacts
+end_time: 1758725358573
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: e0c92337ecce445f9b3cfded2e00a305
+run_name: receptive-bear-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358554
+status: 3
+tags: []
+user_id: leopazes

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/22c4b68588d540199d95b49eea261c43/artifacts
+end_time: 1758725358718
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 22c4b68588d540199d95b49eea261c43
+run_name: funny-lynx-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358706
+status: 3
+tags: []
+user_id: leopazes

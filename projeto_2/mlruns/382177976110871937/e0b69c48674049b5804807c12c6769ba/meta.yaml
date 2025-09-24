@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/e0b69c48674049b5804807c12c6769ba/artifacts
+end_time: 1758725359033
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: e0b69c48674049b5804807c12c6769ba
+run_name: silent-lynx-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358951
+status: 3
+tags: []
+user_id: leopazes

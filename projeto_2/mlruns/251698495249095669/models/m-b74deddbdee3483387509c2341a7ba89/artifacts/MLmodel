@@ -1,0 +1,37 @@
+artifact_path: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/251698495249095669/models/m-b74deddbdee3483387509c2341a7ba89/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-b74deddbdee3483387509c2341a7ba89
+model_size_bytes: 3392
+model_uuid: m-b74deddbdee3483387509c2341a7ba89
+prompts: null
+run_id: b65d3f2f857349bf80da196f48e265cc
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Store", "required": true}, {"type": "double",
+    "name": "Holiday_Flag", "required": true}, {"type": "double", "name": "Temperature",
+    "required": true}, {"type": "double", "name": "Fuel_Price", "required": true},
+    {"type": "double", "name": "CPI", "required": true}, {"type": "double", "name":
+    "Unemployment", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-24 14:49:14.749865'

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/e377bb9028644f2d8a64c886cc395e32/artifacts
+end_time: 1758725358660
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: e377bb9028644f2d8a64c886cc395e32
+run_name: receptive-donkey-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358649
+status: 3
+tags: []
+user_id: leopazes

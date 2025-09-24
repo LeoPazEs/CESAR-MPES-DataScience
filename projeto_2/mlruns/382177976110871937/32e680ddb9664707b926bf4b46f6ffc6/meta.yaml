@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/32e680ddb9664707b926bf4b46f6ffc6/artifacts
+end_time: 1758725358104
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 32e680ddb9664707b926bf4b46f6ffc6
+run_name: adorable-calf-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358082
+status: 3
+tags: []
+user_id: leopazes

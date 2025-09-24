@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/4999dd920e0349c89e7840e0a5067f20/artifacts
+end_time: 1758725366457
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 4999dd920e0349c89e7840e0a5067f20
+run_name: dashing-dolphin-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366411
+status: 3
+tags: []
+user_id: leopazes

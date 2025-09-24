@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/2ca54b707066455294fe6e6e65b202cb/artifacts
+end_time: 1758725367219
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 2ca54b707066455294fe6e6e65b202cb
+run_name: orderly-worm-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725367179
+status: 3
+tags: []
+user_id: leopazes

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/4cbfe01bf09849d099dbee3ff69591ec/artifacts
+end_time: 1758725356587
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 4cbfe01bf09849d099dbee3ff69591ec
+run_name: angry-wasp-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725356572
+status: 3
+tags: []
+user_id: leopazes

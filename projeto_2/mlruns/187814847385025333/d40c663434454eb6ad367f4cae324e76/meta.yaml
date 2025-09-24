@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/d40c663434454eb6ad367f4cae324e76/artifacts
+end_time: 1758725366586
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: d40c663434454eb6ad367f4cae324e76
+run_name: capable-tern-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366540
+status: 3
+tags: []
+user_id: leopazes

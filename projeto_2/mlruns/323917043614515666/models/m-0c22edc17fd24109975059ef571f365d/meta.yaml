@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/323917043614515666/models/m-0c22edc17fd24109975059ef571f365d/artifacts
+creation_timestamp: 1758725411822
+experiment_id: '323917043614515666'
+last_updated_timestamp: 1758725413681
+model_id: m-0c22edc17fd24109975059ef571f365d
+model_type: null
+name: rf_walmart_best
+source_run_id: 3605d32645074ea38904aa4c6d36cfd3
+status: 2
+status_message: null

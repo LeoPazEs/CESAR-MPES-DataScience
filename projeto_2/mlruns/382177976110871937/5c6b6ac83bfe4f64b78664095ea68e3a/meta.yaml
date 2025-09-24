@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/5c6b6ac83bfe4f64b78664095ea68e3a/artifacts
+end_time: 1758725359921
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 5c6b6ac83bfe4f64b78664095ea68e3a
+run_name: painted-smelt-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725359747
+status: 3
+tags: []
+user_id: leopazes

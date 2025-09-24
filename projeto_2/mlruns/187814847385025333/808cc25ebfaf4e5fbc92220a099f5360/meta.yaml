@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/808cc25ebfaf4e5fbc92220a099f5360/artifacts
+end_time: 1758725369033
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 808cc25ebfaf4e5fbc92220a099f5360
+run_name: casual-slug-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725368975
+status: 3
+tags: []
+user_id: leopazes

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/f291e4088a1f4856a4fae24ae5073c08/artifacts
+end_time: 1758725368968
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: f291e4088a1f4856a4fae24ae5073c08
+run_name: languid-hog-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725368932
+status: 3
+tags: []
+user_id: leopazes

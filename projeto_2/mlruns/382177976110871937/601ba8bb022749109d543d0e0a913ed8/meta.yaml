@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/601ba8bb022749109d543d0e0a913ed8/artifacts
+end_time: 1758725358700
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 601ba8bb022749109d543d0e0a913ed8
+run_name: bouncy-flea-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358686
+status: 3
+tags: []
+user_id: leopazes

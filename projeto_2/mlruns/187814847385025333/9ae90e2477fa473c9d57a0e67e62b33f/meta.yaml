@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/9ae90e2477fa473c9d57a0e67e62b33f/artifacts
+end_time: 1758725367114
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 9ae90e2477fa473c9d57a0e67e62b33f
+run_name: gaudy-asp-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725367066
+status: 3
+tags: []
+user_id: leopazes

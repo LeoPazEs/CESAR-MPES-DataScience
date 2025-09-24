@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/6e411e61fe764fb59942ac74cdeaf2c0/artifacts
+end_time: 1758725358423
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 6e411e61fe764fb59942ac74cdeaf2c0
+run_name: caring-hen-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358410
+status: 3
+tags: []
+user_id: leopazes

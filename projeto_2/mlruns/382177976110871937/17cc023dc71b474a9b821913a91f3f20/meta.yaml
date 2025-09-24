@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/17cc023dc71b474a9b821913a91f3f20/artifacts
+end_time: 1758725359234
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 17cc023dc71b474a9b821913a91f3f20
+run_name: unruly-koi-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725359037
+status: 3
+tags: []
+user_id: leopazes

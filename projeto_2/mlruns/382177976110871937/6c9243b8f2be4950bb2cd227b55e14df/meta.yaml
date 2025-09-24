@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/6c9243b8f2be4950bb2cd227b55e14df/artifacts
+end_time: 1758725359469
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 6c9243b8f2be4950bb2cd227b55e14df
+run_name: abrasive-zebra-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725359239
+status: 3
+tags: []
+user_id: leopazes

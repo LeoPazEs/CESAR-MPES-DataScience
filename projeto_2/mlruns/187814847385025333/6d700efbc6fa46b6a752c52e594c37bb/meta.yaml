@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/6d700efbc6fa46b6a752c52e594c37bb/artifacts
+end_time: 1758725366678
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 6d700efbc6fa46b6a752c52e594c37bb
+run_name: silent-ram-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366652
+status: 3
+tags: []
+user_id: leopazes

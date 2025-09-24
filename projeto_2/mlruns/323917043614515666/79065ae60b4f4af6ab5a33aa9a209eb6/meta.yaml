@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/323917043614515666/79065ae60b4f4af6ab5a33aa9a209eb6/artifacts
+end_time: 1758725390425
+entry_point_name: ''
+experiment_id: '323917043614515666'
+lifecycle_stage: active
+run_id: 79065ae60b4f4af6ab5a33aa9a209eb6
+run_name: chill-conch-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725388312
+status: 3
+tags: []
+user_id: leopazes

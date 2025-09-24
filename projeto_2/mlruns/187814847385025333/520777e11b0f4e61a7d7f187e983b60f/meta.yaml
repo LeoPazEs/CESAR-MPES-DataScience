@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/520777e11b0f4e61a7d7f187e983b60f/artifacts
+end_time: 1758725369400
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 520777e11b0f4e61a7d7f187e983b60f
+run_name: fearless-asp-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725369373
+status: 3
+tags: []
+user_id: leopazes

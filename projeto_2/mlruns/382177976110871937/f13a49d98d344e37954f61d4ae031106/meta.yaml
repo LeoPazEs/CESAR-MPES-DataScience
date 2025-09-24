@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/f13a49d98d344e37954f61d4ae031106/artifacts
+end_time: 1758725356803
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: f13a49d98d344e37954f61d4ae031106
+run_name: fun-sloth-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725356725
+status: 3
+tags: []
+user_id: leopazes

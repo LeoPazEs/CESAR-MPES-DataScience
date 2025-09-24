@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/1e1806ab92e04a6096473b2b069eea5d/artifacts
+end_time: 1758725367730
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 1e1806ab92e04a6096473b2b069eea5d
+run_name: bald-gnat-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725367701
+status: 3
+tags: []
+user_id: leopazes

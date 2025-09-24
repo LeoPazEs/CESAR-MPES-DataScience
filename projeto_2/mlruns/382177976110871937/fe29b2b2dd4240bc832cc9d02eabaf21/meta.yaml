@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/fe29b2b2dd4240bc832cc9d02eabaf21/artifacts
+end_time: 1758725358610
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: fe29b2b2dd4240bc832cc9d02eabaf21
+run_name: omniscient-crab-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725358596
+status: 3
+tags: []
+user_id: leopazes

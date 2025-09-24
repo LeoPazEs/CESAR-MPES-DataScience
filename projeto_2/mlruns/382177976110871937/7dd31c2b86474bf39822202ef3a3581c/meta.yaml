@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/7dd31c2b86474bf39822202ef3a3581c/artifacts
+end_time: 1758725362457
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 7dd31c2b86474bf39822202ef3a3581c
+run_name: bemused-carp-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725362283
+status: 3
+tags: []
+user_id: leopazes

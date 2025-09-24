@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/a33f2dca11fb4c9ab61b78129b98914f/artifacts
+end_time: 1758725360389
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: a33f2dca11fb4c9ab61b78129b98914f
+run_name: welcoming-squid-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725360262
+status: 3
+tags: []
+user_id: leopazes

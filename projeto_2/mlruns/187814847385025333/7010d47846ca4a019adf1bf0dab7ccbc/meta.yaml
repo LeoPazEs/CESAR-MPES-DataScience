@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/7010d47846ca4a019adf1bf0dab7ccbc/artifacts
+end_time: 1758725368599
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 7010d47846ca4a019adf1bf0dab7ccbc
+run_name: trusting-wren-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725368542
+status: 3
+tags: []
+user_id: leopazes

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/323917043614515666/0ae7200062a9489396070bca3c64f178/artifacts
+end_time: 1758725380098
+entry_point_name: ''
+experiment_id: '323917043614515666'
+lifecycle_stage: active
+run_id: 0ae7200062a9489396070bca3c64f178
+run_name: capable-panda-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725371925
+status: 3
+tags: []
+user_id: leopazes

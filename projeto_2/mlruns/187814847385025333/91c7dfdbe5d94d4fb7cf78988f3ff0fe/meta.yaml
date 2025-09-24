@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/91c7dfdbe5d94d4fb7cf78988f3ff0fe/artifacts
+end_time: 1758725367262
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 91c7dfdbe5d94d4fb7cf78988f3ff0fe
+run_name: loud-whale-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725367224
+status: 3
+tags: []
+user_id: leopazes

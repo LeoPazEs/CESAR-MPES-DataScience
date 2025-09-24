@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/251698495249095669/models/m-86f89d84c66b49f798a36a2798247719/artifacts
+creation_timestamp: 1758725349413
+experiment_id: '251698495249095669'
+last_updated_timestamp: 1758725351365
+model_id: m-86f89d84c66b49f798a36a2798247719
+model_type: null
+name: rumbling-grub-480
+source_run_id: 93e4d3ec20fd401195970433cf0be699
+status: 2
+status_message: null

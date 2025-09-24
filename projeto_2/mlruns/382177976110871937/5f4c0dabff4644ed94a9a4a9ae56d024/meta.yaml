@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/5f4c0dabff4644ed94a9a4a9ae56d024/artifacts
+end_time: 1758725361983
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 5f4c0dabff4644ed94a9a4a9ae56d024
+run_name: rumbling-owl-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725361761
+status: 3
+tags: []
+user_id: leopazes

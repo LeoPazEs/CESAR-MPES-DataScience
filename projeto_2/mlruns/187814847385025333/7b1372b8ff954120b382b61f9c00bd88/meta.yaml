@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/7b1372b8ff954120b382b61f9c00bd88/artifacts
+end_time: 1758725366649
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 7b1372b8ff954120b382b61f9c00bd88
+run_name: aged-grouse-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366589
+status: 3
+tags: []
+user_id: leopazes

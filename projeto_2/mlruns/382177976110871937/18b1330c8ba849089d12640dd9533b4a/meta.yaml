@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/18b1330c8ba849089d12640dd9533b4a/artifacts
+end_time: 1758725360258
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 18b1330c8ba849089d12640dd9533b4a
+run_name: capable-stork-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725360041
+status: 3
+tags: []
+user_id: leopazes

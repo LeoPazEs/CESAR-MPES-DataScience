@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/8e6dc9061c3a4cf2a8a539c105f20185/artifacts
+end_time: 1758725366751
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 8e6dc9061c3a4cf2a8a539c105f20185
+run_name: grandiose-chimp-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725366725
+status: 3
+tags: []
+user_id: leopazes

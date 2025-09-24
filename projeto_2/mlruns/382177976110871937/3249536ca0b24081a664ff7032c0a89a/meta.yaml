@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/382177976110871937/3249536ca0b24081a664ff7032c0a89a/artifacts
+end_time: 1758725363123
+entry_point_name: ''
+experiment_id: '382177976110871937'
+lifecycle_stage: active
+run_id: 3249536ca0b24081a664ff7032c0a89a
+run_name: defiant-cat-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725362899
+status: 3
+tags: []
+user_id: leopazes

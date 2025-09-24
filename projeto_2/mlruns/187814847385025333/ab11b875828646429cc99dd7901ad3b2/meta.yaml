@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/ab11b875828646429cc99dd7901ad3b2/artifacts
+end_time: 1758725369675
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: ab11b875828646429cc99dd7901ad3b2
+run_name: rare-bat-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725369627
+status: 3
+tags: []
+user_id: leopazes

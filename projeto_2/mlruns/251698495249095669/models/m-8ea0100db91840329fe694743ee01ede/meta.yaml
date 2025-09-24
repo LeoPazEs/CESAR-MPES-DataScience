@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/251698495249095669/models/m-8ea0100db91840329fe694743ee01ede/artifacts
+creation_timestamp: 1758725353086
+experiment_id: '251698495249095669'
+last_updated_timestamp: 1758725354715
+model_id: m-8ea0100db91840329fe694743ee01ede
+model_type: null
+name: sassy-squid-293
+source_run_id: e96d92fe6f104ce18f16324d7530f278
+status: 2
+status_message: null

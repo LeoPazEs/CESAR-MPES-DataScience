@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/187814847385025333/64e3ccab48aa47eb8d7ce73608de9d5f/artifacts
+end_time: 1758725367568
+entry_point_name: ''
+experiment_id: '187814847385025333'
+lifecycle_stage: active
+run_id: 64e3ccab48aa47eb8d7ce73608de9d5f
+run_name: agreeable-kit-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758725367530
+status: 3
+tags: []
+user_id: leopazes
