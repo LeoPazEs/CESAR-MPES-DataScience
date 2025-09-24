@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-8bdddc02b2ea48469c1bb35cab4d8e5f/artifacts
+creation_timestamp: 1758718944689
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758718946685
+model_id: m-8bdddc02b2ea48469c1bb35cab4d8e5f
+model_type: null
+name: lr_wallmart
+source_run_id: 7435ac9a9d2140c2aedaf09edd054995
+status: 2
+status_message: null

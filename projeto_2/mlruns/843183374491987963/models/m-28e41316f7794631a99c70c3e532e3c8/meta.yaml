@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-28e41316f7794631a99c70c3e532e3c8/artifacts
+creation_timestamp: 1758720446211
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758720447776
+model_id: m-28e41316f7794631a99c70c3e532e3c8
+model_type: null
+name: languid-gnu-677
+source_run_id: 04295ca19e7d46fa9c42a09db8c98f57
+status: 2
+status_message: null

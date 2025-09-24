@@ -1,0 +1,14 @@
+artifact_uri: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/517e29fe79574f90b035b50a1f08474d/artifacts
+end_time: 1758720106608
+entry_point_name: ''
+experiment_id: '843183374491987963'
+lifecycle_stage: active
+run_id: 517e29fe79574f90b035b50a1f08474d
+run_name: wallmart_dt_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758720104968
+status: 3
+tags: []
+user_id: leopazes

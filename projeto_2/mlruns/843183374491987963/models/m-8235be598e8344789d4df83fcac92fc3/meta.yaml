@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-8235be598e8344789d4df83fcac92fc3/artifacts
+creation_timestamp: 1758720086174
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758720087712
+model_id: m-8235be598e8344789d4df83fcac92fc3
+model_type: null
+name: agreeable-sow-289
+source_run_id: 54805820e7f441749f8264c7948f728b
+status: 2
+status_message: null

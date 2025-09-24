@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-07399eab7cf142d6b029d4e6eb329d7b/artifacts
+creation_timestamp: 1758720865858
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758720867399
+model_id: m-07399eab7cf142d6b029d4e6eb329d7b
+model_type: null
+name: salty-grouse-714
+source_run_id: 117bf1f87adb41b79c88944e1c874e19
+status: 2
+status_message: null

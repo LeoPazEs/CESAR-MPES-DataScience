@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-62d6e9d1921f42bfa22e6c7bffdb716e/artifacts
+creation_timestamp: 1758719286065
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758719287622
+model_id: m-62d6e9d1921f42bfa22e6c7bffdb716e
+model_type: null
+name: handsome-kit-144
+source_run_id: be1da36c926041d0b65f8a309a8b338d
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///home/leopazes/Desktop/Study/MPES/CESAR-MPES-DataScience/projeto_2/mlruns/843183374491987963/models/m-1c872b4208e04d798d0e2c05bc41cd90/artifacts
+creation_timestamp: 1758720821996
+experiment_id: '843183374491987963'
+last_updated_timestamp: 1758720823607
+model_id: m-1c872b4208e04d798d0e2c05bc41cd90
+model_type: null
+name: rogue-finch-372
+source_run_id: 01f75c69003f4d1bbf98fa5836eb84e3
+status: 2
+status_message: null
